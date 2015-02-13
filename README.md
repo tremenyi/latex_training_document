@@ -1,4 +1,10 @@
 # latex_training_document
+
+I used to send this latex_training_document to people by email a sa zip file.  
+The below is the READ_ME.pdf I used to send with it.  
+It needs adapting for the git repository framework, but will do that later.  
+
+
 Hi everyone!!
 
 I hope this document and the attached documents give you enough so you won’t need a workshop, but I am happy to run a little training session for you and your friends if you feel you need one.
