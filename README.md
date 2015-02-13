@@ -11,21 +11,26 @@ Look at the document and try and find the bits that are similar between the .tex
  \begin{bold} A word or sentence you want to be bold.  \end{bold}
 Its pretty easy to remember, its just that you have to learn the new commands. The beauty of it is, that you can see all the commands in the code, the code that YOU wrote, so it is easier to see why something isnt working, and how to fix it. Also the online help is awesome.
 Okay, about the attached documents.
+
 In the attachment you should have recieved:
-latex training document.zip
-Once this is unzipped, inside the folder there should have been:
+
 50pinIsosurface0dbarAbsoluteSalintyWithFronts.png (picture file) EastSection NtoS 250m AbSal 100dpi.png (picture file) EastSection NtoS 250m dAl 100dpi.png (picture file)
 isocratic vs gradient.eps (picture file)
-latex training document bibliography.bib (bibliography library for this file, like an endnote library) latex training document.aux (latex file used to produce the .pdf output)
+latex training document bibliography.bib (bibliography library for this file, like an endnote library) latex training latex training document.tex (input file, or the code file, the one that looks ugly...)
+
+The first time you format latex it will create these files:
+
+latex training document.toc (file latex creates automatically when you want a table of contents)
+document.aux (latex file used to produce the .pdf output)
 latex training document.bbl (file latex creates automatically when you want a bibliography)
 latex training document.blg (file latex creates automatically when you want a bibliography)
 latex training document.lof (file latex creates automatically when you want a list of figures)
 latex training document.log (log of every command latex uses, and the response of the program to each command, such as success or ERROR)
 latex training document.lot (file latex creates automatically when you want a list of tables) latex training document.pdf (output file, the one that looks pretty)
 latex training document.synctex.gz
-latex training document.tex (input file, or the code file, the one that looks ugly...)
-latex training document.toc (file latex creates automatically when you want a table of contents)
-If you did not recieve all of these, email me ( tremenyi@utas.edu.au ). Anyway, good luck deciphering my code.
+
+Anyway, good luck deciphering my code.
 I am keen for any constructive criticism of this document to improve it.
+
 Cheers, TANK
 ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼1
